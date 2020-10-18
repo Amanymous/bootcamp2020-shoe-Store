@@ -74,3 +74,18 @@ npm install --global surge
 surge ./build
 Shoe-Store-aman.surge.sh
 surge token 0ef6d72d174f66164b4b3d6e9ebce687
+
+vscode live share
+
+### `
+Set up firebase
+Setup React Router
+Build navbar(header)
+Build the Banner
+Build the Product component
+Introduction To Context Api
+Set Add to baseket Button
+Build Subtotal Component
+Build login Page
+Deploy the App Live
+`
