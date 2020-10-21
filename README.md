@@ -77,3 +77,6 @@ surge token 0ef6d72d174f66164b4b3d6e9ebce687
 
 vscode live share
 `Set up firebase<br/> Setup React Router<br/> Build navbar(header)<br/> Build the Banner<br/> Build the Product component<br/> Introduction To Context Api<br/> Set Add to baseket Button<br/> Build Subtotal Component<br/> Build login Page<br/> Deploy the App Live<br/>`
+firebase login
+firebase init
+firebase deploy
