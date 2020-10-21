@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
-
+https://github.com/Amanymous/bootcamp2020-shoe-Store/tree/Amazon-Store
+follow this link Amazon store
 In the project directory, you can run:
 
 ### `yarn start`
